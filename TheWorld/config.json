@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "ToAddress": "mile.mrkobrad@gmail.com"
+  },
+  "ConnnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDb;Database=TheWorldDb;Trusted_Connection=true;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  },
+  "Keys": {
+    "BingKey": "AmFaWwwn8yZdohl80mjAFfBXo8KAQGrasrg4ghBHpeY-in7oLmUWHODRsWyJraIQ"
+  }
+}
